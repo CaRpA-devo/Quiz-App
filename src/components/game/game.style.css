@@ -1,0 +1,119 @@
+.positioning {
+  font-size: 1rem;         /* Standardgröße */
+  position: absolute;
+  top: 2%;
+  left: 1%;
+  z-index: 10;
+}
+
+.level-titel{
+
+font-size: 6rem;
+  position: absolute;
+  top: 3%;
+  left: 42%;
+  z-index: 10;
+}
+
+.btn-bottom {
+
+  box-shadow: 0 0 10px #5190c5, 0 0 20px #5190c5, 0 0 40px #5190c5;
+  color:white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-bottom:hover {
+  color: white;
+  background-color: #3d7ab1;
+  box-shadow: inset 0 0 10px #5190c5, 0 0 20px #5190c5, 0 0 40px #5190c5;
+}
+
+.lives {
+  background-color: #5190c5;
+  box-shadow: 0 0 10px #5190c5, 0 0 20px #5190c5, 0 0 40px #5190c5;
+}
+
+.bar-container{
+  background-color: #0b0d17;
+}
+/* TODO Querrys noch anpassen das es passt */
+
+/* Media Queries */
+
+@media (max-width: 1200px) {
+  .hero {
+    background-image: url('./img/Game-small.jpg'); /* Kleinere Bilddatei für größere Tablets */
+    background-size: cover;
+     background-position:  center;
+    background-repeat: no-repeat; /* Das Bild wird an den Bildschirm angepasst, ohne es zu verzerren */
+  }
+
+    .positioning {
+    font-size: 0.9rem;
+    top: 14%;
+    left: 2%;
+  }
+
+  .level-titel {
+    font-size: 5rem;
+    top: 14%;
+    left: 35%;
+  }
+ }
+
+ @media (max-width: 900px) {
+  .hero {
+    background-image: url('./img/Game-small.jpg') ; /* Noch kleinere Bilddatei für mittlere Geräte */
+    background-size: contain; /* Bild wird angepasst */
+    background-position: center;
+    background-repeat: no-repeat; /* Das Bild wird nach oben verschoben, damit der obere Bereich immer sichtbar bleibt */
+  }
+
+  .positioning {
+    font-size: 0.8rem;
+    top: 13%;
+    left: 3%;
+  }
+
+  .level-titel {
+    font-size: 4rem;
+    top: 13%;
+    left: 30%;
+  }}
+
+  @media (max-width: 600px) {
+  .hero {
+    background-image: url('./img/Game-small.jpg'); /* Kleinstes Bild für mobile Geräte */
+    background-size: contain; /* Bild wird für mobile Geräte angepasst */
+    background-position: top center;
+    background-repeat: no-repeat; /* Wir sorgen dafür, dass der obere Bereich des Bildes immer zu sehen ist */
+  }
+
+  .positioning {
+    font-size: 0.75rem;
+    top: 12%;
+    left: 5%;
+  }
+
+  .level-titel {
+    font-size: 3rem;
+    top: 12%;
+    left: 25%;
+  }}
+
+
+  /* Für ganz kleine Geräte */
+@media (max-width: 480px) {
+    .positioning {
+    font-size: 0.7rem;
+    top: 10%;
+    left: 5%;
+  }
+
+  .level-titel {
+    font-size: 2.5rem;
+    top: 10%;
+    left: 20%;
+  }
+ }

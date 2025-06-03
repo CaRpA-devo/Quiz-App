@@ -1,0 +1,101 @@
+.h1-big {
+  font-size: 6rem;         /* Standardgröße */
+  position: absolute;
+  top: 12%;
+  left: 10%;
+color:#ff0080bd;
+  z-index: 10;
+}
+
+.span-style , .h1-big{
+   text-shadow:
+    0 0 5px #4fc3f7,
+    0 0 10px #4fc3f7,
+    0 0 20px #4fc3f7,
+    0 0 40px #4fc3f7;
+}
+
+
+
+
+/* Media Queries */
+@media (max-width: 1200px) {
+  .hero {
+    background-image: url('./img/lobby-large.jpg') ,url('./img/lobby-game-large.jpg'); /* Kleinere Bilddatei für größere Tablets */
+    background-size: cover;
+     background-position: top center;
+    background-repeat: no-repeat; /* Das Bild wird an den Bildschirm angepasst, ohne es zu verzerren */
+  }
+    .h1-big {
+    font-size: 5rem; /* Schriftgröße für größere Tablets */
+  }
+
+  .text-6xl {
+    font-size: 3.5rem; /* Schriftgröße für den Haupttitel */
+  }
+
+  .h4 {
+    font-size: 1.25rem; /* Schriftgröße für den Untertitel */
+  }
+ }
+
+@media (max-width: 900px) {
+  .hero {
+    background-image: url('./img/lobby-medium.jpg') ,url('./img/lobby-game-medium.jpg'); /* Noch kleinere Bilddatei für mittlere Geräte */
+    background-size: cover; /* Bild wird angepasst */
+    background-position:center;
+    background-repeat: no-repeat; /* Das Bild wird nach oben verschoben, damit der obere Bereich immer sichtbar bleibt */
+  }
+    .h1-big {
+    font-size: 4.5rem; /* Schriftgröße für mittlere Tablets */
+  }
+
+  .text-6xl {
+    font-size: 3rem; /* Schriftgröße für den Haupttitel */
+  }
+
+  .h4 {
+    font-size: 1.125rem; /* Schriftgröße für den Untertitel */
+  }
+}
+
+@media (max-width: 600px) {
+  .hero {
+    background-image: url('./img/lobby-small.jpg') ,url('./img/lobby-game-small.jpg'); /* Kleinstes Bild für mobile Geräte */
+    background-size: cover; /* Bild wird für mobile Geräte angepasst */
+    background-position:  center;
+    background-repeat: no-repeat; /* Wir sorgen dafür, dass der obere Bereich des Bildes immer zu sehen ist */
+  }
+    .h1-big {
+    font-size: 3.5rem; /* Schriftgröße für kleinere Geräte */
+  }
+
+  .text-6xl {
+    font-size: 2.5rem; /* Schriftgröße für den Haupttitel */
+  }
+
+  .h4 {
+    font-size: 1rem; /* Schriftgröße für den Untertitel */
+  }
+
+  .hero-content {
+    margin-top: 20px; /* Weniger Abstand auf mobilen Geräten */
+  }
+
+ 
+}
+
+/* Für ganz kleine Geräte */
+@media (max-width: 480px) {
+
+  .h1-big {
+    font-size: 3rem;
+  }
+   .text-6xl {
+    font-size: 2rem; /* Noch kleinere Schriftgröße für den Haupttitel */
+  }
+
+  .h4 {
+    font-size: 0.875rem; /* Noch kleinere Schriftgröße für den Untertitel */
+  }
+ }

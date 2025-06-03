@@ -1,0 +1,2778 @@
+{
+  "users": [
+    {
+      "id": "70d3",
+      "username": "Patrick",
+      "password": "12345",
+      "score": 0,
+      "level": 1
+    },
+    {
+      "id": "6bca",
+      "username": "Tim",
+      "password": "145",
+      "score": 0,
+      "level": 1
+    },
+    {
+      "id": "1757",
+      "username": "tim ",
+      "password": "1234",
+      "score": 0,
+      "level": 1
+    },
+    {
+      "id": "95d3",
+      "username": "Olaf ",
+      "password": "1234567",
+      "score": 0,
+      "level": 1
+    },
+    {
+      "id": "7a07",
+      "username": "olaf ",
+      "password": "1234567",
+      "score": 0,
+      "level": 1
+    },
+    {
+      "id": "266f",
+      "username": "Patrick ",
+      "password": "12345",
+      "score": 0,
+      "level": 1
+    }
+  ],
+  "questions": [
+    {
+      "question": "Wie viele Tage hat ein Schaltjahr?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "365",
+        "366",
+        "364",
+        "360"
+      ],
+      "answer": "366",
+      "id": "8c4b"
+    },
+    {
+      "question": "Welcher Planet ist der Erde am nächsten?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "Mars",
+        "Venus",
+        "Merkur",
+        "Jupiter"
+      ],
+      "answer": "Venus",
+      "id": "89a6"
+    },
+    {
+      "question": "Wie viele Kontinente gibt es?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "id": "182c"
+    },
+    {
+      "question": "Was ist H2O?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "Wasser",
+        "Sauerstoff",
+        "Helium",
+        "Wasserstoff"
+      ],
+      "answer": "Wasser",
+      "id": "5848"
+    },
+    {
+      "question": "Welche Farbe hat der Himmel bei klarem Wetter?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "Blau",
+        "Grün",
+        "Rot",
+        "Gelb"
+      ],
+      "answer": "Blau",
+      "id": "7590"
+    },
+    {
+      "question": "Wie viele Stunden hat ein Tag?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "60"
+      ],
+      "answer": "24",
+      "id": "d33b"
+    },
+    {
+      "question": "Was trinkt man typischerweise zum Frühstück?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "Wasser",
+        "Milch",
+        "Kaffee",
+        "Bier"
+      ],
+      "answer": "Kaffee",
+      "id": "19c9"
+    },
+    {
+      "question": "Was ist das Gegenteil von 'hell'?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "Dunkel",
+        "Leicht",
+        "Schwer",
+        "Kalt"
+      ],
+      "answer": "Dunkel",
+      "id": "6db1"
+    },
+    {
+      "question": "Wie viele Beine hat ein Insekt?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "6",
+      "id": "f4fe"
+    },
+    {
+      "question": "Woraus besteht ein Regenbogen?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Einfach",
+      "options": [
+        "Licht",
+        "Wasser",
+        "Wind",
+        "Schall"
+      ],
+      "answer": "Licht",
+      "id": "b4f5"
+    },
+    {
+      "question": "Wie viele Bundesländer hat Deutschland?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "answer": "16",
+      "id": "685a"
+    },
+    {
+      "question": "Wie heißt das größte Tier der Welt?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "Elefant",
+        "Blauwal",
+        "Giraffe",
+        "Walhai"
+      ],
+      "answer": "Blauwal",
+      "id": "b289"
+    },
+    {
+      "question": "Was ist kein Primzahl?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4",
+      "id": "dffe"
+    },
+    {
+      "question": "Wie viele Zähne hat ein Erwachsener normalerweise?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "answer": "32",
+      "id": "98c8"
+    },
+    {
+      "question": "Welches chemische Element hat das Symbol 'Fe'?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "Fluor",
+        "Feldspat",
+        "Eisen",
+        "Phosphor"
+      ],
+      "answer": "Eisen",
+      "id": "dfea"
+    },
+    {
+      "question": "Wie viele Planeten hat unser Sonnensystem?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "8",
+      "id": "6ec5"
+    },
+    {
+      "question": "Was ist das größte Organ des menschlichen Körpers?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "Herz",
+        "Leber",
+        "Haut",
+        "Lunge"
+      ],
+      "answer": "Haut",
+      "id": "af1e"
+    },
+    {
+      "question": "Was ist die Hauptstadt von Kanada?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": "Ottawa",
+      "id": "6846"
+    },
+    {
+      "question": "Wie heißt der längste Fluss der Welt?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "Amazonas",
+        "Nil",
+        "Mississippi",
+        "Jangtse"
+      ],
+      "answer": "Amazonas",
+      "id": "3f8b"
+    },
+    {
+      "question": "Was ist ein Synonym für 'Antonym'?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Mittel",
+      "options": [
+        "Gegenteil",
+        "Synonym",
+        "Verwandtwort",
+        "Adjektiv"
+      ],
+      "answer": "Gegenteil",
+      "id": "52d4"
+    },
+    {
+      "question": "Welcher berühmte Physiker entwickelte die spezielle Relativitätstheorie?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Galileo Galilei"
+      ],
+      "answer": "Albert Einstein",
+      "id": "792c"
+    },
+    {
+      "question": "Was ist die Quadratwurzel von 144?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "12",
+      "id": "37bc"
+    },
+    {
+      "question": "Wie lautet das chemische Symbol für Gold?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "answer": "Au",
+      "id": "7ddc"
+    },
+    {
+      "question": "Wie viele Liter sind in einem Kubikmeter?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "answer": "1000",
+      "id": "fcd2"
+    },
+    {
+      "question": "Welche Sprache wird in Brasilien gesprochen?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "Spanisch",
+        "Portugiesisch",
+        "Französisch",
+        "Englisch"
+      ],
+      "answer": "Portugiesisch",
+      "id": "3a8f"
+    },
+    {
+      "question": "Wie viele Chromosomen hat ein Mensch?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "42",
+        "44",
+        "46",
+        "48"
+      ],
+      "answer": "46",
+      "id": "3894"
+    },
+    {
+      "question": "Was bedeutet 'WWW' im Internet?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "World Wide Web",
+        "World Web Wide",
+        "Wide Web World",
+        "Web Wide World"
+      ],
+      "answer": "World Wide Web",
+      "id": "afde"
+    },
+    {
+      "question": "Wer schrieb '1984'?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ernest Hemingway",
+        "Franz Kafka"
+      ],
+      "answer": "George Orwell",
+      "id": "a9a8"
+    },
+    {
+      "question": "Welche Einheit misst die elektrische Stromstärke?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "Volt",
+        "Watt",
+        "Ampere",
+        "Ohm"
+      ],
+      "answer": "Ampere",
+      "id": "cae6"
+    },
+    {
+      "question": "Wie heißt der größte Ozean der Erde?",
+      "category": "Allgemeinwissen",
+      "difficulty": "Schwer",
+      "options": [
+        "Atlantik",
+        "Indischer Ozean",
+        "Pazifik",
+        "Arktischer Ozean"
+      ],
+      "answer": "Pazifik",
+      "id": "4aaa"
+    },
+    {
+      "question": "Wann endete der Zweite Weltkrieg?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "answer": "1945",
+      "id": "7118"
+    },
+    {
+      "question": "Wer war der erste Präsident der USA?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "Abraham Lincoln",
+        "John Adams"
+      ],
+      "answer": "George Washington",
+      "id": "23ba"
+    },
+    {
+      "question": "In welchem Jahr fiel die Berliner Mauer?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "answer": "1989",
+      "id": "574f"
+    },
+    {
+      "question": "Welcher Krieg wurde zwischen 1914 und 1918 geführt?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Zweiter Weltkrieg",
+        "Amerikanischer Bürgerkrieg",
+        "Erster Weltkrieg",
+        "Vietnamkrieg"
+      ],
+      "answer": "Erster Weltkrieg",
+      "id": "9ebb"
+    },
+    {
+      "question": "Wer war der berühmteste ägyptische Pharao?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Tutanchamun",
+        "Ramses",
+        "Cleopatra",
+        "Echnaton"
+      ],
+      "answer": "Tutanchamun",
+      "id": "864a"
+    },
+    {
+      "question": "Wie hieß der Gründer des Römischen Reiches?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Augustus",
+        "Romulus",
+        "Cäsar",
+        "Nero"
+      ],
+      "answer": "Romulus",
+      "id": "0309"
+    },
+    {
+      "question": "Welche Stadt wurde 79 n. Chr. durch einen Vulkanausbruch zerstört?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Pompeji",
+        "Rom",
+        "Athen",
+        "Karthago"
+      ],
+      "answer": "Pompeji",
+      "id": "2db7"
+    },
+    {
+      "question": "Wer entdeckte Amerika 1492?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Vasco da Gama",
+        "Kolumbus",
+        "Magellan",
+        "Marco Polo"
+      ],
+      "answer": "Kolumbus",
+      "id": "0f89"
+    },
+    {
+      "question": "Welcher deutsche Kanzler war zur Zeit der Wiedervereinigung im Amt?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Angela Merkel",
+        "Gerhard Schröder",
+        "Helmut Kohl",
+        "Willy Brandt"
+      ],
+      "answer": "Helmut Kohl",
+      "id": "548a"
+    },
+    {
+      "question": "Wie hieß das Mittelalterliche System von Lehnsherr und Vasall?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Demokratie",
+        "Feudalismus",
+        "Kommunismus",
+        "Kapitalismus"
+      ],
+      "answer": "Feudalismus",
+      "id": "f9e7"
+    },
+    {
+      "question": "Wann begann die Französische Revolution?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "1789",
+        "1792",
+        "1804",
+        "1776"
+      ],
+      "answer": "1789",
+      "id": "430d"
+    },
+    {
+      "question": "Wer war der Anführer der Nationalsozialisten in Deutschland?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Bismarck",
+        "Hitler",
+        "Stalin",
+        "Mussolini"
+      ],
+      "answer": "Hitler",
+      "id": "8b19"
+    },
+    {
+      "question": "Was passierte am 11. September 2001?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Fall der Mauer",
+        "Terroranschläge in den USA",
+        "Mondlandung",
+        "Vietnamkrieg endet"
+      ],
+      "answer": "Terroranschläge in den USA",
+      "id": "34d4"
+    },
+    {
+      "question": "Wer führte die Reformation ein?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Johannes Gutenberg",
+        "Martin Luther",
+        "Karl der Große",
+        "Gregor VII."
+      ],
+      "answer": "Martin Luther",
+      "id": "6f69"
+    },
+    {
+      "question": "Welche Dynastie regierte lange in China?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Qing",
+        "Sui",
+        "Tang",
+        "Ming"
+      ],
+      "answer": "Qing",
+      "id": "210f"
+    },
+    {
+      "question": "Welcher Krieg tobte zwischen 1955 und 1975?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Koreakrieg",
+        "Vietnamkrieg",
+        "Golfkrieg",
+        "Falklandkrieg"
+      ],
+      "answer": "Vietnamkrieg",
+      "id": "44b2"
+    },
+    {
+      "question": "Wann wurde die DDR gegründet?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "1945",
+        "1947",
+        "1949",
+        "1951"
+      ],
+      "answer": "1949",
+      "id": "d49a"
+    },
+    {
+      "question": "Wer war Winston Churchill?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Französischer König",
+        "Britischer Premierminister",
+        "Amerikanischer Präsident",
+        "Russischer Zar"
+      ],
+      "answer": "Britischer Premierminister",
+      "id": "86e4"
+    },
+    {
+      "question": "Wie hieß der Vertrag, der den Ersten Weltkrieg beendete?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Vertrag von Versailles",
+        "Vertrag von Rom",
+        "Wiener Kongress",
+        "Potsdamer Abkommen"
+      ],
+      "answer": "Vertrag von Versailles",
+      "id": "c0ed"
+    },
+    {
+      "question": "Was war die 'Ostpolitik'?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Kolonialpolitik",
+        "Entspannungspolitik",
+        "Militärbündnis",
+        "Handelsabkommen"
+      ],
+      "answer": "Entspannungspolitik",
+      "id": "f174"
+    },
+    {
+      "question": "Wer war der erste römische Kaiser?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Cäsar",
+        "Augustus",
+        "Nero",
+        "Tiberius"
+      ],
+      "answer": "Augustus",
+      "id": "2022"
+    },
+    {
+      "question": "Wann wurde die Weimarer Republik gegründet?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "1918",
+        "1919",
+        "1920",
+        "1921"
+      ],
+      "answer": "1919",
+      "id": "8c9f"
+    },
+    {
+      "question": "Was war der Auslöser des Dreißigjährigen Kriegs?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Prager Fenstersturz",
+        "Napoleonische Kriege",
+        "Reichstagsbrand",
+        "Schlacht bei Hastings"
+      ],
+      "answer": "Prager Fenstersturz",
+      "id": "1882"
+    },
+    {
+      "question": "Wer war Zar während der Russischen Revolution?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Peter der Große",
+        "Nikolaus II.",
+        "Alexander III.",
+        "Iwan der Schreckliche"
+      ],
+      "answer": "Nikolaus II.",
+      "id": "6c00"
+    },
+    {
+      "question": "Wann wurde das Römische Reich offiziell aufgelöst?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "476 n. Chr.",
+        "500 n. Chr.",
+        "800 n. Chr.",
+        "1000 n. Chr."
+      ],
+      "answer": "476 n. Chr.",
+      "id": "def4"
+    },
+    {
+      "question": "Welche Revolution begann 1917 in Russland?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Bolschewistische Revolution",
+        "Industrielle Revolution",
+        "Französische Revolution",
+        "Kulturrevolution"
+      ],
+      "answer": "Bolschewistische Revolution",
+      "id": "900d"
+    },
+    {
+      "question": "Was war die 'Glorreiche Revolution'?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Revolution in Frankreich",
+        "Friedliche Machtübernahme in England",
+        "Revolution in Spanien",
+        "Krieg in den Niederlanden"
+      ],
+      "answer": "Friedliche Machtübernahme in England",
+      "id": "3591"
+    },
+    {
+      "question": "Wann wurde das Deutsche Reich gegründet?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "1870",
+        "1871",
+        "1875",
+        "1880"
+      ],
+      "answer": "1871",
+      "id": "20db"
+    },
+    {
+      "question": "Welcher Vertrag schuf die EU-Vorgängerorganisation EWG?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Vertrag von Maastricht",
+        "Vertrag von Rom",
+        "Vertrag von Lissabon",
+        "Schengener Abkommen"
+      ],
+      "answer": "Vertrag von Rom",
+      "id": "4e18"
+    },
+    {
+      "question": "Wer war Atatürk?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Sultan",
+        "Gründer der modernen Türkei",
+        "Osmanischer General",
+        "Irakischer König"
+      ],
+      "answer": "Gründer der modernen Türkei",
+      "id": "5044"
+    },
+    {
+      "question": "Was misst ein Thermometer?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Länge",
+        "Gewicht",
+        "Temperatur",
+        "Zeit"
+      ],
+      "answer": "Temperatur",
+      "id": "eb1c"
+    },
+    {
+      "question": "Wie viele Beine hat ein Insekt?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "6",
+      "id": "3bb4"
+    },
+    {
+      "question": "Welcher Planet ist der Erde am nächsten?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Mars",
+        "Venus",
+        "Merkur",
+        "Jupiter"
+      ],
+      "answer": "Venus",
+      "id": "a636"
+    },
+    {
+      "question": "Was atmen wir ein, das für uns lebensnotwendig ist?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Wasserstoff",
+        "Stickstoff",
+        "Sauerstoff",
+        "Kohlenstoffdioxid"
+      ],
+      "answer": "Sauerstoff",
+      "id": "21d3"
+    },
+    {
+      "question": "Wie viele Sinne hat der Mensch klassisch?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "id": "33c0"
+    },
+    {
+      "question": "Welche Farbe hat das menschliche Blut?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Blau",
+        "Grün",
+        "Rot",
+        "Gelb"
+      ],
+      "answer": "Rot",
+      "id": "4fd7"
+    },
+    {
+      "question": "Welches Organ pumpt Blut durch den Körper?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Lunge",
+        "Leber",
+        "Herz",
+        "Magen"
+      ],
+      "answer": "Herz",
+      "id": "1443"
+    },
+    {
+      "question": "Wie nennt man gefrorenes Wasser?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Schnee",
+        "Eis",
+        "Dampf",
+        "Kondensat"
+      ],
+      "answer": "Eis",
+      "id": "d9af"
+    },
+    {
+      "question": "Welcher Aggregatzustand ist Wasser bei 100°C?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Fest",
+        "Flüssig",
+        "Gasförmig",
+        "Plasma"
+      ],
+      "answer": "Gasförmig",
+      "id": "91db"
+    },
+    {
+      "question": "Was zeigt ein Kompass an?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Luftdruck",
+        "Sonneneinstrahlung",
+        "Himmelsrichtungen",
+        "Geschwindigkeit"
+      ],
+      "answer": "Himmelsrichtungen",
+      "id": "a316"
+    },
+    {
+      "question": "Was ist die kleinste Einheit des Lebens?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Atom",
+        "Molekül",
+        "Zelle",
+        "Organ"
+      ],
+      "answer": "Zelle",
+      "id": "7446"
+    },
+    {
+      "question": "Wie heißt die Kraft, die uns auf der Erde hält?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Magnetismus",
+        "Gravitation",
+        "Zentrifugalkraft",
+        "Reibung"
+      ],
+      "answer": "Gravitation",
+      "id": "9e24"
+    },
+    {
+      "question": "Was ist H2O chemisch gesehen?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Salz",
+        "Kohlendioxid",
+        "Wasser",
+        "Wasserstoff"
+      ],
+      "answer": "Wasser",
+      "id": "1d38"
+    },
+    {
+      "question": "Wie heißt das Element mit dem Symbol 'O'?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Gold",
+        "Ozon",
+        "Sauerstoff",
+        "Osmium"
+      ],
+      "answer": "Sauerstoff",
+      "id": "7a8f"
+    },
+    {
+      "question": "Was ist kein Teil der DNA?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Adenin",
+        "Thymin",
+        "Guanin",
+        "Kalzium"
+      ],
+      "answer": "Kalzium",
+      "id": "f2f9"
+    },
+    {
+      "question": "Wie viele Chromosomen hat ein Mensch normalerweise?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "44",
+        "46",
+        "48",
+        "50"
+      ],
+      "answer": "46",
+      "id": "8e1c"
+    },
+    {
+      "question": "Wie nennt man den Zustand, wenn Flüssigkeit zu Gas wird?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Kondensation",
+        "Verdunstung",
+        "Sieden",
+        "Erstarren"
+      ],
+      "answer": "Sieden",
+      "id": "9179"
+    },
+    {
+      "question": "Was ist Newton bekannt für?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Gesetze der Schwerkraft",
+        "Relativitätstheorie",
+        "Erforschung des Herzens",
+        "Erfindung der Glühbirne"
+      ],
+      "answer": "Gesetze der Schwerkraft",
+      "id": "8ef9"
+    },
+    {
+      "question": "Was ist ein Proton?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Negativ geladen",
+        "Neutral",
+        "Positiv geladen",
+        "Kein Teilchen"
+      ],
+      "answer": "Positiv geladen",
+      "id": "b2b4"
+    },
+    {
+      "question": "Wie heißt das Gerät zur Messung von Stromstärke?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Voltmeter",
+        "Amperemeter",
+        "Thermometer",
+        "Barometer"
+      ],
+      "answer": "Amperemeter",
+      "id": "d72e"
+    },
+    {
+      "question": "Wer formulierte die Relativitätstheorie?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Newton",
+        "Einstein",
+        "Bohr",
+        "Tesla"
+      ],
+      "answer": "Einstein",
+      "id": "6a1a"
+    },
+    {
+      "question": "Was ist die Lichtgeschwindigkeit in km/s?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "150.000",
+        "200.000",
+        "300.000",
+        "500.000"
+      ],
+      "answer": "300.000",
+      "id": "8738"
+    },
+    {
+      "question": "Was beschreibt die Heisenbergsche Unschärferelation?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Beziehung von Masse und Energie",
+        "Grenze der Messgenauigkeit",
+        "Bewegung der Planeten",
+        "Zellteilung"
+      ],
+      "answer": "Grenze der Messgenauigkeit",
+      "id": "dd23"
+    },
+    {
+      "question": "Was ist ein Photon?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Lichtteilchen",
+        "Stromteilchen",
+        "Magnetfeld",
+        "Schallwelle"
+      ],
+      "answer": "Lichtteilchen",
+      "id": "2414"
+    },
+    {
+      "question": "Was entsteht bei Kernfusion?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Wasser",
+        "Helium",
+        "Kohlenstoff",
+        "Neutron"
+      ],
+      "answer": "Helium",
+      "id": "e019"
+    },
+    {
+      "question": "Wie heißt der Zellprozess zur Energiegewinnung?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Osmose",
+        "Photosynthese",
+        "Zellatmung",
+        "Fermentation"
+      ],
+      "answer": "Zellatmung",
+      "id": "4319"
+    },
+    {
+      "question": "Was bedeutet 'pH-Wert'?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Säuregrad",
+        "Temperatur",
+        "Konzentration",
+        "Dichte"
+      ],
+      "answer": "Säuregrad",
+      "id": "bd67"
+    },
+    {
+      "question": "Welcher Teil des Auges bricht das Licht?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Netzhaut",
+        "Pupille",
+        "Linse",
+        "Hornhaut"
+      ],
+      "answer": "Hornhaut",
+      "id": "18ea"
+    },
+    {
+      "question": "Was sind Enzyme?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Zellen",
+        "Hormone",
+        "Biokatalysatoren",
+        "Vitamine"
+      ],
+      "answer": "Biokatalysatoren",
+      "id": "88c3"
+    },
+    {
+      "question": "Was ist der zweite Hauptsatz der Thermodynamik?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Energie bleibt erhalten",
+        "Wärme fließt vom Warmen zum Kalten",
+        "Druck ist konstant",
+        "Masse ist konstant"
+      ],
+      "answer": "Wärme fließt vom Warmen zum Kalten",
+      "id": "66e1"
+    },
+    {
+      "question": "Wie heißt die Hauptstadt von Deutschland?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "Hamburg",
+        "München",
+        "Berlin",
+        "Köln"
+      ],
+      "answer": "Berlin",
+      "id": "a64c"
+    },
+    {
+      "question": "Welcher Kontinent ist der größte?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "Afrika",
+        "Europa",
+        "Asien",
+        "Australien"
+      ],
+      "answer": "Asien",
+      "id": "3a8e"
+    },
+    {
+      "question": "In welchem Land liegt Paris?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "Italien",
+        "Deutschland",
+        "Frankreich",
+        "Spanien"
+      ],
+      "answer": "Frankreich",
+      "id": "e9b0"
+    },
+    {
+      "question": "Wie viele Kontinente gibt es?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "id": "8669"
+    },
+    {
+      "question": "Welcher Ozean liegt an der Ostküste der USA?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "Pazifik",
+        "Indischer Ozean",
+        "Atlantik",
+        "Arktischer Ozean"
+      ],
+      "answer": "Atlantik",
+      "id": "a4c1"
+    },
+    {
+      "question": "Welches Land hat die Form eines Stiefels?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "Spanien",
+        "Portugal",
+        "Italien",
+        "Griechenland"
+      ],
+      "answer": "Italien",
+      "id": "e591"
+    },
+    {
+      "question": "Welche Farbe hat das Wasser auf einer Weltkarte meist?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "Grün",
+        "Gelb",
+        "Blau",
+        "Rot"
+      ],
+      "answer": "Blau",
+      "id": "4939"
+    },
+    {
+      "question": "Wie heißt der längste Fluss der Welt?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "Amazonas",
+        "Nil",
+        "Donau",
+        "Mississippi"
+      ],
+      "answer": "Nil",
+      "id": "b507"
+    },
+    {
+      "question": "Welcher Staat liegt nicht in Europa?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "Belgien",
+        "Norwegen",
+        "Kanada",
+        "Österreich"
+      ],
+      "answer": "Kanada",
+      "id": "b458"
+    },
+    {
+      "question": "Wie heißt der höchste Berg der Erde?",
+      "category": "Geografie",
+      "difficulty": "Einfach",
+      "options": [
+        "K2",
+        "Zugspitze",
+        "Mount Everest",
+        "Mont Blanc"
+      ],
+      "answer": "Mount Everest",
+      "id": "0e9d"
+    },
+    {
+      "question": "Welches Land hat die meisten Nachbarländer?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Russland",
+        "Deutschland",
+        "China",
+        "Brasilien"
+      ],
+      "answer": "China",
+      "id": "1094"
+    },
+    {
+      "question": "Welcher Fluss fließt durch London?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Themse",
+        "Seine",
+        "Donau",
+        "Elbe"
+      ],
+      "answer": "Themse",
+      "id": "195e"
+    },
+    {
+      "question": "Welche Insel ist die größte der Welt?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Australien",
+        "Borneo",
+        "Grönland",
+        "Neuguinea"
+      ],
+      "answer": "Grönland",
+      "id": "d1a5"
+    },
+    {
+      "question": "Wie heißt der höchste Berg Europas?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Matterhorn",
+        "Zugspitze",
+        "Mont Blanc",
+        "Elbrus"
+      ],
+      "answer": "Elbrus",
+      "id": "1450"
+    },
+    {
+      "question": "Welches Meer liegt zwischen Europa und Afrika?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Rotes Meer",
+        "Schwarzes Meer",
+        "Mittelmeer",
+        "Ostsee"
+      ],
+      "answer": "Mittelmeer",
+      "id": "52a3"
+    },
+    {
+      "question": "Wie heißt der südlichste Kontinent?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Südamerika",
+        "Australien",
+        "Afrika",
+        "Antarktis"
+      ],
+      "answer": "Antarktis",
+      "id": "8624"
+    },
+    {
+      "question": "Wie heißt die Hauptstadt von Kanada?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Toronto",
+        "Montreal",
+        "Ottawa",
+        "Vancouver"
+      ],
+      "answer": "Ottawa",
+      "id": "350a"
+    },
+    {
+      "question": "Welcher See ist der tiefste der Welt?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Viktoriasee",
+        "Baikalsee",
+        "Kaspisches Meer",
+        "Tanganjikasee"
+      ],
+      "answer": "Baikalsee",
+      "id": "dc42"
+    },
+    {
+      "question": "Welcher Staat hat die größte Fläche?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "USA",
+        "Kanada",
+        "Russland",
+        "China"
+      ],
+      "answer": "Russland",
+      "id": "5582"
+    },
+    {
+      "question": "In welchem Land liegt das Atlasgebirge?",
+      "category": "Geografie",
+      "difficulty": "Mittel",
+      "options": [
+        "Spanien",
+        "Ägypten",
+        "Marokko",
+        "Südafrika"
+      ],
+      "answer": "Marokko",
+      "id": "8db5"
+    },
+    {
+      "question": "Wie viele Zeitzonen hat Russland?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "5",
+        "9",
+        "11",
+        "13"
+      ],
+      "answer": "11",
+      "id": "1e11"
+    },
+    {
+      "question": "Was ist der westlichste Punkt Europas?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "Kap Finisterre",
+        "Kap der Guten Hoffnung",
+        "Kap Verde",
+        "Cabo da Roca"
+      ],
+      "answer": "Cabo da Roca",
+      "id": "c93e"
+    },
+    {
+      "question": "Wie heißt das kleinste Land der Welt?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "Monaco",
+        "Liechtenstein",
+        "Vatikanstadt",
+        "San Marino"
+      ],
+      "answer": "Vatikanstadt",
+      "id": "cb25"
+    },
+    {
+      "question": "Welche Wüste ist die größte der Welt?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Antarktis",
+        "Kalahari"
+      ],
+      "answer": "Antarktis",
+      "id": "9b22"
+    },
+    {
+      "question": "Wie heißt das Hochland in Äthiopien?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "Himalaya",
+        "Anden",
+        "Äthiopisches Hochland",
+        "Atlasgebirge"
+      ],
+      "answer": "Äthiopisches Hochland",
+      "id": "2ff9"
+    },
+    {
+      "question": "Wie viele Länder grenzen an Deutschland?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "9",
+      "id": "3a67"
+    },
+    {
+      "question": "Welcher See liegt zwischen Israel und Jordanien?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "Toten Meer",
+        "Viktoriasee",
+        "Galiläa-See",
+        "Aralsee"
+      ],
+      "answer": "Toten Meer",
+      "id": "9059"
+    },
+    {
+      "question": "Wie heißt die Hauptstadt von Neuseeland?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "answer": "Wellington",
+      "id": "5689"
+    },
+    {
+      "question": "Welches Land hat am meisten Inseln?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "Philippinen",
+        "Indonesien",
+        "Schweden",
+        "Norwegen"
+      ],
+      "answer": "Schweden",
+      "id": "bf77"
+    },
+    {
+      "question": "Welcher Fluss bildet einen Teil der Grenze zwischen Mexiko und den USA?",
+      "category": "Geografie",
+      "difficulty": "Schwer",
+      "options": [
+        "Colorado",
+        "Mississippi",
+        "Rio Grande",
+        "Amazonas"
+      ],
+      "answer": "Rio Grande",
+      "id": "639e"
+    },
+    {
+      "question": "Wie viele Spieler hat eine Fußballmannschaft auf dem Feld?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "11",
+      "id": "173b"
+    },
+    {
+      "question": "Mit welchem Schläger spielt man Tennis?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "Golfschläger",
+        "Tennisschläger",
+        "Hockeyschläger",
+        "Baseballschläger"
+      ],
+      "answer": "Tennisschläger",
+      "id": "ee2a"
+    },
+    {
+      "question": "Wie nennt man das Spielgerät beim Basketball?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "Ball",
+        "Puck",
+        "Scheibe",
+        "Schläger"
+      ],
+      "answer": "Ball",
+      "id": "69b2"
+    },
+    {
+      "question": "Welcher Sport wird auf Eis gespielt?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "Tennis",
+        "Fußball",
+        "Eishockey",
+        "Basketball"
+      ],
+      "answer": "Eishockey",
+      "id": "eb96"
+    },
+    {
+      "question": "Wie viele Ringe hat das Olympische Symbol?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "id": "d642"
+    },
+    {
+      "question": "Welches Tier ist das Maskottchen vieler Boxkämpfer?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "Tiger",
+        "Adler",
+        "Löwe",
+        "Bär"
+      ],
+      "answer": "Tiger",
+      "id": "9b23"
+    },
+    {
+      "question": "Wie nennt man das Ziel beim Bowling?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "Treffer",
+        "Wurf",
+        "Strike",
+        "Hit"
+      ],
+      "answer": "Strike",
+      "id": "308c"
+    },
+    {
+      "question": "In welcher Sportart gibt es ein Torwart?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "Tennis",
+        "Basketball",
+        "Handball",
+        "Schwimmen"
+      ],
+      "answer": "Handball",
+      "id": "0db8"
+    },
+    {
+      "question": "Wie heißt das Spielfeld beim Baseball?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "Court",
+        "Rink",
+        "Field",
+        "Diamond"
+      ],
+      "answer": "Diamond",
+      "id": "1855"
+    },
+    {
+      "question": "Wie heißt der bekannteste Basketballspieler mit dem Spitznamen 'King James'?",
+      "category": "Sport",
+      "difficulty": "Einfach",
+      "options": [
+        "Kobe Bryant",
+        "Michael Jordan",
+        "LeBron James",
+        "Stephen Curry"
+      ],
+      "answer": "LeBron James",
+      "id": "18d0"
+    },
+    {
+      "question": "Wie lang ist ein Marathonlauf?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "21,1 km",
+        "30 km",
+        "42,195 km",
+        "50 km"
+      ],
+      "answer": "42,195 km",
+      "id": "768f"
+    },
+    {
+      "question": "In welchem Land wurde Fußball erfunden?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "Deutschland",
+        "Brasilien",
+        "England",
+        "Italien"
+      ],
+      "answer": "England",
+      "id": "7e4b"
+    },
+    {
+      "question": "Wie heißt der erfolgreichste Schwimmer aller Zeiten?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "Mark Spitz",
+        "Michael Phelps",
+        "Ian Thorpe",
+        "Ryan Lochte"
+      ],
+      "answer": "Michael Phelps",
+      "id": "deaa"
+    },
+    {
+      "question": "Wie viele Punkte gibt ein Touchdown im American Football?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "3",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": "6",
+      "id": "317c"
+    },
+    {
+      "question": "Wie viele Minuten dauert ein Rugbyspiel (regulär)?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90"
+      ],
+      "answer": "80",
+      "id": "c0cf"
+    },
+    {
+      "question": "Wie heißt das berühmte Radrennen in Frankreich?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "Tour de France",
+        "Giro d’Italia",
+        "Vuelta a España",
+        "Paris-Roubaix"
+      ],
+      "answer": "Tour de France",
+      "id": "b011"
+    },
+    {
+      "question": "Welche Sportart betreibt Lionel Messi?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "Basketball",
+        "Tennis",
+        "Fußball",
+        "Golf"
+      ],
+      "answer": "Fußball",
+      "id": "388e"
+    },
+    {
+      "question": "Was bedeutet 'K.O.' im Boxen?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "Kampf offen",
+        "Kritische Offensive",
+        "Knockout",
+        "Kraftüberschuss"
+      ],
+      "answer": "Knockout",
+      "id": "5736"
+    },
+    {
+      "question": "Wie viele Spieler hat ein Volleyball-Team auf dem Feld?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "id": "7825"
+    },
+    {
+      "question": "Wie oft finden die Olympischen Sommerspiele statt?",
+      "category": "Sport",
+      "difficulty": "Mittel",
+      "options": [
+        "Alle 2 Jahre",
+        "Jedes Jahr",
+        "Alle 4 Jahre",
+        "Alle 6 Jahre"
+      ],
+      "answer": "Alle 4 Jahre",
+      "id": "599d"
+    },
+    {
+      "question": "Wer gewann die Fußball-WM 1998?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "Brasilien",
+        "Deutschland",
+        "Frankreich",
+        "Argentinien"
+      ],
+      "answer": "Frankreich",
+      "id": "744c"
+    },
+    {
+      "question": "Welche Nation gewann die meisten Goldmedaillen bei den Olympischen Spielen 2020?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "USA",
+        "China",
+        "Japan",
+        "Russland"
+      ],
+      "answer": "USA",
+      "id": "b604"
+    },
+    {
+      "question": "Wer hält den 100-Meter-Weltrekord der Männer (Stand 2024)?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "Usain Bolt",
+        "Tyson Gay",
+        "Yohan Blake",
+        "Carl Lewis"
+      ],
+      "answer": "Usain Bolt",
+      "id": "3b7d"
+    },
+    {
+      "question": "In welcher Sportart gibt es den Begriff 'Bogey'?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "Tennis",
+        "Golf",
+        "Rugby",
+        "Snooker"
+      ],
+      "answer": "Golf",
+      "id": "ffa2"
+    },
+    {
+      "question": "Wie viele Grand-Slam-Turniere gibt es im Tennis?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4",
+      "id": "5f66"
+    },
+    {
+      "question": "Wie heißt der wichtigste Fußballclub-Wettbewerb in Europa?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "Europa League",
+        "Champions League",
+        "Conference League",
+        "Super League"
+      ],
+      "answer": "Champions League",
+      "id": "d6e5"
+    },
+    {
+      "question": "Welcher Boxer blieb 49 Kämpfe ungeschlagen und war Weltmeister in fünf Gewichtsklassen?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "Muhammad Ali",
+        "Floyd Mayweather",
+        "Mike Tyson",
+        "Manny Pacquiao"
+      ],
+      "answer": "Floyd Mayweather",
+      "id": "e792"
+    },
+    {
+      "question": "In welcher Stadt fanden die Olympischen Spiele 2004 statt?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "Sydney",
+        "London",
+        "Athen",
+        "Peking"
+      ],
+      "answer": "Athen",
+      "id": "af78"
+    },
+    {
+      "question": "Wie viele Minuten dauert ein Eishockey-Spiel (regulär)?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "60",
+        "70",
+        "90",
+        "100"
+      ],
+      "answer": "60",
+      "id": "9e69"
+    },
+    {
+      "question": "Welcher deutsche Tennisspieler gewann Wimbledon 1991?",
+      "category": "Sport",
+      "difficulty": "Schwer",
+      "options": [
+        "Tommy Haas",
+        "Michael Stich",
+        "Boris Becker",
+        "Alexander Zverev"
+      ],
+      "answer": "Michael Stich",
+      "id": "2575"
+    },
+    {
+      "question": "Wer war der erste Präsident der USA?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "answer": "George Washington",
+      "id": "5984"
+    },
+    {
+      "question": "In welchem Jahr endete der Zweite Weltkrieg?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "1945",
+        "1939",
+        "1950",
+        "1960"
+      ],
+      "answer": "1945",
+      "id": "f51e"
+    },
+    {
+      "question": "Welches Land war der Ursprungsort der alten ägyptischen Zivilisation?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Irak",
+        "Ägypten",
+        "Griechenland",
+        "Rom"
+      ],
+      "answer": "Ägypten",
+      "id": "dab5"
+    },
+    {
+      "question": "Wer war der erste Mensch auf dem Mond?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "John Glenn"
+      ],
+      "answer": "Neil Armstrong",
+      "id": "f055"
+    },
+    {
+      "question": "Welcher berühmte Entdecker segelte 1492 nach Amerika?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Marco Polo",
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Ferdinand Magellan"
+      ],
+      "answer": "Christopher Columbus",
+      "id": "e3ef"
+    },
+    {
+      "question": "Welche Mauer fiel 1989 in Berlin?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Berliner Mauer",
+        "Hadriansmauer",
+        "Maginot-Linie",
+        "Ziegelmauer"
+      ],
+      "answer": "Berliner Mauer",
+      "id": "7b02"
+    },
+    {
+      "question": "Welches Imperium war das größte der Geschichte?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Britisches Empire",
+        "Römisches Imperium",
+        "Mongolisches Reich",
+        "Ottomanisches Reich"
+      ],
+      "answer": "Britisches Empire",
+      "id": "5f0c"
+    },
+    {
+      "question": "Wie hieß die erste Frau, die in den USA das Wahlrecht erhielt?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Susan B. Anthony",
+        "Rosa Parks",
+        "Eleanor Roosevelt",
+        "Clara Barton"
+      ],
+      "answer": "Susan B. Anthony",
+      "id": "f63b"
+    },
+    {
+      "question": "Wer war der erste Kaiser von China?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "Qin Shi Huang",
+        "Liu Bang",
+        "Wang Mang",
+        "Han Wudi"
+      ],
+      "answer": "Qin Shi Huang",
+      "id": "518a"
+    },
+    {
+      "question": "In welchem Jahr fand die Französische Revolution statt?",
+      "category": "Geschichte",
+      "difficulty": "Einfach",
+      "options": [
+        "1776",
+        "1789",
+        "1800",
+        "1815"
+      ],
+      "answer": "1789",
+      "id": "8423"
+    },
+    {
+      "question": "Wer war der Anführer der Bolschewiki während der Russischen Revolution?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Wladimir Lenin",
+        "Joseph Stalin",
+        "Leon Trotzki",
+        "Nikita Chruschtschow"
+      ],
+      "answer": "Wladimir Lenin",
+      "id": "8365"
+    },
+    {
+      "question": "Welches Reich war während der Antike der Hauptgegner des Römischen Reiches?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Persisches Reich",
+        "Mongolisches Reich",
+        "Byzantinisches Reich",
+        "Karthagisches Reich"
+      ],
+      "answer": "Karthagisches Reich",
+      "id": "8722"
+    },
+    {
+      "question": "Welche Schlacht gilt als Wendepunkt im Zweiten Weltkrieg?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Schlacht von Waterloo",
+        "Schlacht von Stalingrad",
+        "Schlacht von Hastings",
+        "Schlacht von Gettysburg"
+      ],
+      "answer": "Schlacht von Stalingrad",
+      "id": "b3b8"
+    },
+    {
+      "question": "Wer führte die Französische Revolution an?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Napoleon Bonaparte",
+        "Maximilien Robespierre",
+        "Louis XVI",
+        "Charles de Gaulle"
+      ],
+      "answer": "Maximilien Robespierre",
+      "id": "e397"
+    },
+    {
+      "question": "Welches Land war die Hauptmacht im Ersten Weltkrieg?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Frankreich",
+        "Deutschland",
+        "Großbritannien",
+        "Österreich-Ungarn"
+      ],
+      "answer": "Deutschland",
+      "id": "7cba"
+    },
+    {
+      "question": "Welches Jahr markierte das Ende des Römischen Reiches?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "476 n. Chr.",
+        "800 n. Chr.",
+        "1066 n. Chr.",
+        "1492 n. Chr."
+      ],
+      "answer": "476 n. Chr.",
+      "id": "ff69"
+    },
+    {
+      "question": "Welcher englische König hatte sechs Frauen?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Henry VIII",
+        "Edward VI",
+        "Richard III",
+        "George III"
+      ],
+      "answer": "Henry VIII",
+      "id": "e6a9"
+    },
+    {
+      "question": "In welchem Jahr wurde die Berliner Mauer gebaut?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "1953",
+        "1961",
+        "1970",
+        "1989"
+      ],
+      "answer": "1961",
+      "id": "13c8"
+    },
+    {
+      "question": "Welcher Politiker führte die USA während des Zweiten Weltkriegs?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Harry S. Truman",
+        "John F. Kennedy",
+        "Dwight D. Eisenhower"
+      ],
+      "answer": "Franklin D. Roosevelt",
+      "id": "8dfb"
+    },
+    {
+      "question": "Welches Land war die Heimat der Inka-Zivilisation?",
+      "category": "Geschichte",
+      "difficulty": "Mittel",
+      "options": [
+        "Mexiko",
+        "Peru",
+        "Bolivien",
+        "Ecuador"
+      ],
+      "answer": "Peru",
+      "id": "a029"
+    },
+    {
+      "question": "Wer war der letzte Pharao des Alten Ägypten?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Cleopatra VII",
+        "Nefertiti",
+        "Ramses II",
+        "Tutanchamun"
+      ],
+      "answer": "Cleopatra VII",
+      "id": "96fc"
+    },
+    {
+      "question": "In welchem Jahr wurde das deutsche Kaiserreich gegründet?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "1860",
+        "1871",
+        "1888",
+        "1914"
+      ],
+      "answer": "1871",
+      "id": "7ff9"
+    },
+    {
+      "question": "Welches Land führte den ersten erfolgreichen Flug eines Motorflugzeugs durch?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Deutschland",
+        "Frankreich",
+        "USA",
+        "Italien"
+      ],
+      "answer": "USA",
+      "id": "a710"
+    },
+    {
+      "question": "Wer war der Anführer des Mongolischen Reiches?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Genghis Khan",
+        "Kublai Khan",
+        "Attila der Hunne",
+        "Alexander der Große"
+      ],
+      "answer": "Genghis Khan",
+      "id": "a3ac"
+    },
+    {
+      "question": "Welches Jahr markierte den Beginn des Amerikanischen Bürgerkriegs?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "1776",
+        "1812",
+        "1861",
+        "1898"
+      ],
+      "answer": "1861",
+      "id": "46cb"
+    },
+    {
+      "question": "Wie hieß das berühmte Flaggenschiff von Horatio Nelson in der Schlacht von Trafalgar?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Victory",
+        "Ark Royal",
+        "Repulse",
+        "Constitution"
+      ],
+      "answer": "Victory",
+      "id": "b4c1"
+    },
+    {
+      "question": "Welche antike Stadt wurde 79 n. Chr. durch den Vesuv zerstört?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Pompeji",
+        "Rom",
+        "Athens",
+        "Karthago"
+      ],
+      "answer": "Pompeji",
+      "id": "4256"
+    },
+    {
+      "question": "Wer war der erste römische Kaiser?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Augustus",
+        "Julius Caesar",
+        "Nero",
+        "Trajan"
+      ],
+      "answer": "Augustus",
+      "id": "ee9e"
+    },
+    {
+      "question": "In welchem Jahr wurde die Magna Carta unterzeichnet?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "1215",
+        "1300",
+        "1453",
+        "1066"
+      ],
+      "answer": "1215",
+      "id": "82db"
+    },
+    {
+      "question": "Wer führte das britische Empire während des Zweiten Weltkriegs?",
+      "category": "Geschichte",
+      "difficulty": "Schwer",
+      "options": [
+        "Winston Churchill",
+        "Clement Attlee",
+        "David Lloyd George",
+        "George VI"
+      ],
+      "answer": "Winston Churchill",
+      "id": "b72d"
+    },
+    {
+      "question": "Was ist die größte Planeten im Sonnensystem?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Erde",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Jupiter",
+      "id": "7545"
+    },
+    {
+      "question": "Wie viele Kontinente gibt es auf der Erde?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "id": "9378"
+    },
+    {
+      "question": "Welches Element hat das chemische Symbol H?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Helium",
+        "Wasserstoff",
+        "Stickstoff",
+        "Sauerstoff"
+      ],
+      "answer": "Wasserstoff",
+      "id": "30d4"
+    },
+    {
+      "question": "Welche der folgenden Farben ist eine Primärfarbe?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Grün",
+        "Orange",
+        "Blau",
+        "Lila"
+      ],
+      "answer": "Blau",
+      "id": "b3a0"
+    },
+    {
+      "question": "Was ist der menschliche Körper als Organismus?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Tier",
+        "Pflanze",
+        "Mikroorganismus",
+        "Virus"
+      ],
+      "answer": "Tier",
+      "id": "b430"
+    },
+    {
+      "question": "Was ist die Hauptquelle für Energie auf der Erde?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Der Mond",
+        "Der Mars",
+        "Die Sonne",
+        "Der Jupiter"
+      ],
+      "answer": "Die Sonne",
+      "id": "bd31"
+    },
+    {
+      "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "answer": "32",
+      "id": "e459"
+    },
+    {
+      "question": "Was ist die chemische Formel von Wasser?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "answer": "H2O",
+      "id": "3149"
+    },
+    {
+      "question": "Welche der folgenden Tiere ist ein Säugetier?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Echse",
+        "Pinguin",
+        "Elefant",
+        "Krokodil"
+      ],
+      "answer": "Elefant",
+      "id": "1859"
+    },
+    {
+      "question": "Was ist die Einheit der Temperatur im Internationalen Einheitensystem?",
+      "category": "Wissenschaft",
+      "difficulty": "Einfach",
+      "options": [
+        "Celsius",
+        "Kelvin",
+        "Fahrenheit",
+        "Rang"
+      ],
+      "answer": "Celsius",
+      "id": "d7f4"
+    },
+    {
+      "question": "Welche Gasart macht den größten Teil der Erdatmosphäre aus?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Kohlendioxid",
+        "Sauerstoff",
+        "Wasserstoff",
+        "Stickstoff"
+      ],
+      "answer": "Stickstoff",
+      "id": "8555"
+    },
+    {
+      "question": "Welches Organ im menschlichen Körper ist für das Pumpen von Blut verantwortlich?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Lunge",
+        "Leber",
+        "Herz",
+        "Niere"
+      ],
+      "answer": "Herz",
+      "id": "9e6a"
+    },
+    {
+      "question": "Was ist die normale Körpertemperatur eines Menschen?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "35°C",
+        "36,5°C",
+        "37°C",
+        "38°C"
+      ],
+      "answer": "37°C",
+      "id": "3074"
+    },
+    {
+      "question": "Was sind die Bausteine der Proteine?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Zucker",
+        "Fette",
+        "Aminosäuren",
+        "Fasern"
+      ],
+      "answer": "Aminosäuren",
+      "id": "6ed7"
+    },
+    {
+      "question": "Was ist das Hauptmerkmal eines Tieres, das es von einer Pflanze unterscheidet?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Es kann Fotosynthese durchführen",
+        "Es bewegt sich von selbst",
+        "Es wächst ständig",
+        "Es hat eine Zellwand"
+      ],
+      "answer": "Es bewegt sich von selbst",
+      "id": "f6e6"
+    },
+    {
+      "question": "Was beschreibt die Gravitation?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Die Anziehungskraft der Erde",
+        "Die Rotation der Erde",
+        "Die Bewegung von Planeten",
+        "Die Geschwindigkeit von Licht"
+      ],
+      "answer": "Die Anziehungskraft der Erde",
+      "id": "d172"
+    },
+    {
+      "question": "Welche Art von Energie erzeugt ein Windrad?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Elektrische Energie",
+        "Kernenergie",
+        "Thermische Energie",
+        "Mechanische Energie"
+      ],
+      "answer": "Elektrische Energie",
+      "id": "5607"
+    },
+    {
+      "question": "Welche Planeten sind Gasriesen?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Mars und Venus",
+        "Jupiter und Saturn",
+        "Erde und Mars",
+        "Uranus und Neptun"
+      ],
+      "answer": "Jupiter und Saturn",
+      "id": "9f3b"
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Vögeln und Insekten?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Vögel haben Flügel, Insekten nicht",
+        "Vögel haben Federn, Insekten nicht",
+        "Vögel haben ein Exoskelett",
+        "Vögel haben sechs Beine"
+      ],
+      "answer": "Vögel haben Federn, Insekten nicht",
+      "id": "1d12"
+    },
+    {
+      "question": "Welche Zelle ist verantwortlich für den Sauerstofftransport im menschlichen Körper?",
+      "category": "Wissenschaft",
+      "difficulty": "Mittel",
+      "options": [
+        "Nervenzelle",
+        "Blutplättchen",
+        "Rote Blutkörperchen",
+        "Weiße Blutkörperchen"
+      ],
+      "answer": "Rote Blutkörperchen",
+      "id": "8919"
+    },
+    {
+      "question": "Welche Substanz wird als Hauptquelle der Energie in der Zellatmung genutzt?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Glukose",
+        "Fett",
+        "Wasser",
+        "Sauerstoff"
+      ],
+      "answer": "Glukose",
+      "id": "aebe"
+    },
+    {
+      "question": "Welcher Wissenschaftler entwickelte die Theorie der Relativität?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Isaac Newton",
+        "Nikola Tesla",
+        "Albert Einstein",
+        "Max Planck"
+      ],
+      "answer": "Albert Einstein",
+      "id": "daee"
+    },
+    {
+      "question": "Was sind die Hauptbestandteile der Luft, die wir atmen?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Sauerstoff und Kohlendioxid",
+        "Sauerstoff und Stickstoff",
+        "Sauerstoff und Argon",
+        "Stickstoff und Wasserstoff"
+      ],
+      "answer": "Sauerstoff und Stickstoff",
+      "id": "7cf0"
+    },
+    {
+      "question": "Wie nennt man die Wissenschaft von der Erde und ihrer Struktur?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Geologie",
+        "Astronomie",
+        "Biologie",
+        "Physik"
+      ],
+      "answer": "Geologie",
+      "id": "b9e2"
+    },
+    {
+      "question": "Was bezeichnet die 'Dunkle Materie' in der Physik?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Materie, die nur bei hohem Druck existiert",
+        "Nicht sichtbare Materie, die gravitative Effekte auf sichtbare Materie ausübt",
+        "Ein Zustand der Materie bei extrem hohen Temperaturen",
+        "Eine Substanz, die keine Gravitationskraft erzeugt"
+      ],
+      "answer": "Nicht sichtbare Materie, die gravitative Effekte auf sichtbare Materie ausübt",
+      "id": "48ed"
+    },
+    {
+      "question": "Wie nennt man den Prozess, bei dem Pflanzen ihre Nahrung herstellen?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Gärung",
+        "Fotosynthese",
+        "Atmung",
+        "Zellteilung"
+      ],
+      "answer": "Fotosynthese",
+      "id": "c5ef"
+    },
+    {
+      "question": "Was ist die Geschwindigkeit des Lichts im Vakuum?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "300.000 km/s",
+        "150.000 km/s",
+        "450.000 km/s",
+        "600.000 km/s"
+      ],
+      "answer": "300.000 km/s",
+      "id": "4724"
+    },
+    {
+      "question": "Welche der folgenden Elementarteilchen ist negativ geladen?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Elektron",
+        "Photon"
+      ],
+      "answer": "Elektron",
+      "id": "4c79"
+    },
+    {
+      "question": "Was ist der Hauptbestandteil des Kerns eines Atoms?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Elektronen",
+        "Protonen und Neutronen",
+        "Neutronen und Quarks",
+        "Protonen und Photonen"
+      ],
+      "answer": "Protonen und Neutronen",
+      "id": "d13c"
+    },
+    {
+      "question": "Welche Form von Energie wird in der Sonne hauptsächlich produziert?",
+      "category": "Wissenschaft",
+      "difficulty": "Schwer",
+      "options": [
+        "Kernenergie",
+        "Elektrische Energie",
+        "Wärmeenergie",
+        "Lichtenergie"
+      ],
+      "answer": "Kernenergie",
+      "id": "a1a8"
+    }
+  ]
+}

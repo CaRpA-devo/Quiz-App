@@ -1,0 +1,31 @@
+
+.neon-play-btn {
+  background: #1d232a;
+ 
+ 
+border: 1px solid #ec4899;
+  transition: ease-in-out 10ms;
+  cursor: pointer;
+&:hover{
+  background-color: #1eff00;
+  
+   
+}
+
+
+}
+
+/* Hover-Effekt für das Label */
+.neon-pink-hover-label:hover {
+color: #1eff00;
+}
+
+
+.activ-game{
+  background-color: #1eff00;
+ font-weight: bold;
+ color: #1d232a;
+}
+.activ-label{
+  color: #1eff00;
+}

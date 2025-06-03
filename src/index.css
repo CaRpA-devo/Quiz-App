@@ -1,0 +1,72 @@
+/* My Font */
+
+@font-face {
+  font-family: "Myfont";
+  src: url("./assets/myfont/Iceland/Iceland-Regular.ttf") format("truetype");
+}
+
+
+/* color-palette */
+
+:root {
+  --bg-dark: #0b0d17;
+  --bg-grey: #676767;
+  --content-light: #f8f8f8;
+  --content-gold: #b8b276;
+  --content-green: #42cc46;
+  --content-green-ligth:#00ff00;
+  --content-red: #ca1e5d;
+  --content-red-ligth: #ff007f;
+  --btn-blue: #7882b4;
+}
+
+.bg-dark-Quiz{
+  background-color: var(--bg-dark);
+}
+
+
+.neon-shadow {
+  box-shadow: 0 0 15px 5px var(--content-green-ligth);
+}
+
+
+
+
+body {
+  font-family: "Myfont", sans-serif;
+
+  /* typescale
+
+  h1 {
+    font-size: 3.815rem;
+  }
+
+  h2 {
+    font-size: 3.05rem;
+  }
+  h3 {
+    font-size: 2.4438rem;
+  }
+  h4 {
+    font-size: 1.9563rem;
+  }
+  h5 {
+    font-size: 1.5625rem;
+  }
+  h6 {
+    font-size: 1.25rem;
+  }
+  p {
+    font-size: 1rem;
+  }
+  small {
+    font-size: 0.75rem;
+  }
+  small-ligth {
+    font-size: 0.6375rem;
+  } */
+}
+
+.custom-navbar {
+  background-color: var(--bg-dark);
+}
