@@ -41,6 +41,13 @@
       "password": "12345",
       "score": 0,
       "level": 1
+    },
+    {
+      "id": "887e",
+      "username": "Patrick",
+      "password": "1234",
+      "score": 0,
+      "level": 1
     }
   ],
   "questions": [
